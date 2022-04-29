@@ -1,0 +1,5 @@
+/Users/brooklinlaird/Documents/GitHub/projectworkout/obj/Debug/net5.0/projectworkout.csproj.AssemblyReference.cache
+/Users/brooklinlaird/Documents/GitHub/projectworkout/obj/Debug/net5.0/projectworkout.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brooklinlaird/Documents/GitHub/projectworkout/obj/Debug/net5.0/projectworkout.AssemblyInfoInputs.cache
+/Users/brooklinlaird/Documents/GitHub/projectworkout/obj/Debug/net5.0/projectworkout.AssemblyInfo.cs
+/Users/brooklinlaird/Documents/GitHub/projectworkout/obj/Debug/net5.0/projectworkout.csproj.CoreCompileInputs.cache
